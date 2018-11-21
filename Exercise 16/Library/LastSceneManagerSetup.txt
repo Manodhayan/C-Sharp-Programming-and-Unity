@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/FORGE/Documents/Manodhayan_Junks/C# Programming & Unity - Learning/Exercise17/Assets/scenes/scene0.unity
+  isLoaded: 1
+  isActive: 1
